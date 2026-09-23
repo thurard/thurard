@@ -5,10 +5,6 @@
 Marine & robotics engineering student at **SeaTech** (Toulon), SYSMER track — marine and robotic systems.
 I work on things that move: simulation, embedded systems, computer vision and ROS.
 
-Currently doing a robotics internship at **KMUTNB** (Bangkok), on an autonomous
-navigation-and-grasping pipeline (AgileX LIMO + myCobot arm). Looking to work in France
-in robotics or mechatronics.
-
 **Tech:** MATLAB/Simulink · embedded C (dsPIC) · Python · ROS / ROS2 · OpenCV / YOLO · CAD & 3D printing
 **Contact:** [LinkedIn](https://www.linkedin.com/in/tom-hurard)
 
